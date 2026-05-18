@@ -1,0 +1,336 @@
+City,Ranking,Lon,Lat
+London,Alpha++,-0.128,51.507
+New York,Alpha++,-74.006,40.713
+Hong Kong,Alpha+,114.2,22.3
+Beijing,Alpha+,116.397,39.907
+Singapore,Alpha+,103.833,1.283
+Shanghai,Alpha+,121.469,31.233
+Paris,Alpha+,2.352,48.857
+Dubai,Alpha+,55.271,25.205
+Tokyo,Alpha+,139.692,35.69
+Sydney,Alpha+,151.21,-33.868
+Seoul,Alpha,126.99,37.56
+Milan,Alpha,9.19,45.467
+Toronto,Alpha,-79.382,43.653
+Frankfurt,Alpha,8.682,50.111
+Chicago,Alpha,-87.628,41.882
+Jakarta,Alpha,106.83,-6.18
+Sao Paulo,Alpha,-46.633,-23.55
+Mexico City,Alpha,-99.133,19.433
+Mumbai,Alpha,72.877,19.076
+Madrid,Alpha,-3.703,40.417
+Warsaw,Alpha,21.011,52.23
+Guangzhou,Alpha,113.26,23.13
+Istanbul,Alpha,28.955,41.014
+Amsterdam,Alpha,4.894,52.373
+Bangkok,Alpha,100.494,13.752
+Los Angeles,Alpha,-118.25,34.05
+Kuala Lumpur,Alpha,101.695,3.148
+Luxembourg,Alpha-,6.133,49.817
+Taipei,Alpha-,121.562,25.038
+Shenzhen,Alpha-,114.054,22.547
+Brussels,Alpha-,4.353,50.847
+Zurich,Alpha-,8.541,47.374
+Buenos Aires,Alpha-,-58.381,-34.604
+Melbourne,Alpha-,144.963,-37.814
+San Francisco,Alpha-,-122.416,37.778
+Riyadh,Alpha-,46.717,24.633
+Santiago,Alpha-,-70.65,-33.438
+Düsseldorf,Alpha-,6.777,51.226
+Stockholm,Alpha-,18.069,59.329
+Washington DC,Alpha-,-77.016,38.905
+Vienna,Alpha-,16.372,48.208
+Lisbon,Alpha-,-9.15,38.725
+Munich,Alpha-,11.575,48.138
+Dublin,Alpha-,-6.26,53.35
+Houston,Alpha-,-95.365,29.757
+Berlin,Alpha-,13.405,52.52
+Johannesburg,Alpha-,28.046,-26.204
+Boston,Alpha-,-71.058,42.36
+New Delhi,Alpha-,77.209,28.614
+Bogota,Beta+,-74.072,4.711
+Ho Chi Minh City,Beta+,106.702,10.776
+Rome,Beta+,12.483,41.893
+Bangalore,Beta+,77.592,12.979
+Budapest,Beta+,19.051,47.492
+Athens,Beta+,23.728,37.984
+Hamburg,Beta+,10.0,53.55
+Doha,Beta+,51.533,25.287
+Chengdu,Beta+,104.063,30.66
+Miami,Beta+,-80.194,25.774
+Tianjin,Beta+,117.205,39.134
+Dallas,Beta+,-96.809,32.779
+Atlanta (GA),Beta+,-84.39,33.749
+Auckland,Beta+,174.765,-36.849
+Barcelona,Beta+,2.183,41.383
+Hangzhou,Beta+,120.153,30.267
+Bucharest,Beta+,26.104,44.432
+Lima,Beta+,-77.037,-12.06
+Montreal,Beta+,-73.554,45.509
+Prague,Beta+,14.421,50.087
+Chongqing,Beta,106.55,29.564
+Tel Aviv,Beta,34.78,32.08
+Brisbane,Beta,153.028,-27.468
+Cairo,Beta,31.236,30.044
+Hanoi,Beta,105.85,21.0
+Nanjing,Beta,118.779,32.061
+Oslo,Beta,10.739,59.913
+Perth,Beta,115.86,-31.956
+Abu Dhabi,Beta,54.367,24.467
+Copenhagen,Beta,12.568,55.676
+Manama,Beta,50.587,26.223
+Wuhan,Beta,114.297,30.595
+Manila,Beta,120.977,14.596
+Xiamen,Beta,118.089,24.48
+Nairobi,Beta,36.817,-1.286
+Kiev,Beta,30.523,50.45
+Geneva,Beta,6.147,46.202
+Jinan,Beta,117.021,36.67
+Calgary,Beta,-114.07,51.05
+Zhengzhou,Beta,113.684,34.764
+Shenyang,Beta,123.428,41.803
+Dalian,Beta,121.6,38.9
+Suzhou,Beta,120.619,31.3
+Qingdao,Beta-,120.383,36.067
+Casablanca,Beta-,-7.583,33.533
+Changsha,Beta-,112.939,28.228
+Beirut,Beta-,35.506,33.898
+Port Louis,Beta-,57.504,-20.164
+Denver,Beta-,-104.99,39.74
+Lagos,Beta-,3.394,6.456
+Belgrade,Beta-,20.457,44.818
+Montevideo,Beta-,-56.184,-34.906
+Vancouver,Beta-,-123.114,49.261
+Seattle,Beta-,-122.33,47.604
+Manchester,Beta-,-2.245,53.479
+Sofia,Beta-,23.33,42.7
+Bratislava,Beta-,17.11,48.144
+Rio de Janeiro,Beta-,-43.206,-22.911
+Lyon,Beta-,4.835,45.767
+Xi’an,Beta-,108.942,34.261
+Helsinki,Beta-,24.938,60.171
+Kunming,Beta-,102.709,25.046
+Zagreb,Beta-,15.977,45.813
+Nicosia,Beta-,33.365,35.172
+Karachi,Beta-,67.01,24.86
+Caracas,Beta-,-66.914,10.506
+Hefei,Beta-,117.227,31.821
+Stuttgart,Beta-,9.18,48.778
+Panama City,Beta-,-79.535,8.971
+Chennai,Beta-,80.275,13.082
+Philadelphia,Beta-,-75.164,39.953
+Tunis,Gamma+,10.182,36.806
+Fuzhou,Gamma+,119.296,26.074
+Guatemala City,Gamma+,-90.513,14.642
+Hyderabad,Gamma+,78.475,17.362
+Cape Town,Gamma+,18.424,-33.925
+Dhaka,Gamma+,90.389,23.764
+Porto,Gamma+,-8.611,41.15
+Austin,Gamma+,-97.743,30.267
+San Diego,Gamma+,-117.162,32.715
+Minneapolis,Gamma+,-93.269,44.982
+Antwerp,Gamma+,4.4,51.218
+Almaty,Gamma+,76.95,43.233
+Amman,Gamma+,35.933,31.95
+Santo Domingo,Gamma+,-69.936,18.462
+Rotterdam,Gamma+,4.48,51.92
+Adelaide,Gamma+,138.6,-34.928
+Lahore,Gamma+,74.344,31.55
+Colombo,Gamma+,79.843,6.934
+Taiyuan,Gamma+,112.55,37.87
+Kuwait City,Gamma+,47.978,29.37
+Monterrey,Gamma,-100.318,25.684
+Osaka,Gamma,135.502,34.694
+Haikou,Gamma,110.349,20.019
+Tbilisi,Gamma,44.792,41.722
+Tampa,Gamma,-82.459,27.948
+Tirana,Gamma,19.818,41.328
+Quito,Gamma,-78.513,-0.22
+Nashville,Gamma,-86.774,36.162
+Islamabad,Gamma,73.064,33.693
+Kampala,Gamma,32.581,0.314
+San Salvador,Gamma,-89.191,13.699
+Muscat,Gamma,58.408,23.589
+Phnom Penh,Gamma,104.921,11.569
+Birmingham (UK),Gamma,-1.903,52.48
+Pune,Gamma,73.855,18.521
+Ningbo,Gamma,121.624,29.86
+Harbin,Gamma,126.641,45.758
+San Jose (CA),Gamma,-121.891,37.336
+Bologna,Gamma,11.343,44.494
+San José (Costa Rica),Gamma,-84.08,9.932
+Ahmedabad,Gamma,72.571,23.023
+Bristol,Gamma,-2.598,51.454
+Tegucigalpa,Gamma,-87.205,14.106
+Riga,Gamma,24.106,56.949
+Detroit,Gamma,-83.05,42.333
+Poznan,Gamma-,16.934,52.408
+Labuan,Gamma-,115.22,5.3
+Charlotte,Gamma-,-80.843,35.227
+Pittsburgh,Gamma-,-79.976,40.44
+Valencia (Spain),Gamma-,-0.376,39.47
+Edinburgh,Gamma-,-3.189,55.953
+Jeddah,Gamma-,39.173,21.543
+Turin,Gamma-,7.676,45.079
+Katowice,Gamma-,19.022,50.263
+Baku,Gamma-,49.833,40.376
+Penang,Gamma-,100.329,5.414
+Dar es Salaam,Gamma-,39.28,-6.816
+Wellington,Gamma-,174.777,-41.289
+Managua,Gamma-,-86.251,12.136
+Cleveland,Gamma-,-81.695,41.499
+Nanchang,Gamma-,115.858,28.683
+Changchun,Gamma-,125.326,43.897
+Cali,Gamma-,-76.522,3.421
+St Louis,Gamma-,-90.198,38.627
+Ljubljana,Gamma-,14.506,46.051
+Baltimore,Gamma-,-76.615,39.289
+Bilbao,Gamma-,-2.924,43.257
+Marseille,Gamma-,5.37,43.296
+Surabaya,Gamma-,112.738,-7.246
+Accra,Gamma-,-0.2,5.55
+Izmir,High sufficiency,27.132,38.424
+Harare,High sufficiency,31.052,-17.829
+Maputo,High sufficiency,32.573,-25.969
+Vilnius,High sufficiency,25.28,54.687
+Macao,High sufficiency,113.54,22.19
+Gothenburg,High sufficiency,11.967,57.708
+Raleigh,High sufficiency,-78.762,35.854
+Queretaro,High sufficiency,-100.383,20.583
+Glasgow,High sufficiency,-4.25,55.861
+Zhuhai,High sufficiency,113.572,22.274
+Phoenix,High sufficiency,-112.074,33.448
+Dakar,High sufficiency,-17.447,14.693
+Cincinnati,High sufficiency,-84.513,39.1
+Skopje,High sufficiency,21.432,41.996
+Kansas City,High sufficiency,-94.578,39.1
+Limassol,High sufficiency,33.044,34.675
+La Paz,High sufficiency,-68.133,-16.496
+Leeds,High sufficiency,-1.544,53.797
+Guayaquil,High sufficiency,-79.888,-2.19
+Hartford,High sufficiency,-72.674,41.763
+Belfast,High sufficiency,-5.93,54.597
+Indianapolis,High sufficiency,-86.158,39.769
+Algiers,High sufficiency,3.087,36.733
+Shijiazhuang,High sufficiency,114.51,38.042
+Lusaka,High sufficiency,28.283,-15.417
+Guadalajara,High sufficiency,-103.347,20.677
+Strasbourg,Sufficiency,7.746,48.583
+Columbus,Sufficiency,-83.001,39.962
+Ankara,Sufficiency,32.855,39.929
+Johor Bahru,Sufficiency,103.761,1.456
+Ottawa,Sufficiency,-75.695,45.425
+Wroclaw,Sufficiency,17.032,51.11
+Urumqi,Sufficiency,87.612,43.822
+Christchurch,Sufficiency,172.636,-43.531
+Douala,Sufficiency,9.7,4.05
+Tashkent,Sufficiency,69.28,41.311
+Lausanne,Sufficiency,6.633,46.52
+Málaga,Sufficiency,-4.42,36.719
+Wuxi,Sufficiency,120.057,31.549
+George Town (Cayman Islands),Sufficiency,-81.382,19.296
+Salt Lake City,Sufficiency,-111.891,40.761
+Tallinn,Sufficiency,24.745,59.437
+Nantes,Sufficiency,-1.553,47.218
+Medellin,Sufficiency,-75.591,6.231
+Edmonton,Sufficiency,-113.49,53.534
+Utrecht,Sufficiency,5.122,52.091
+Taichung,Sufficiency,120.679,24.144
+Campinas,Sufficiency,-47.061,-22.906
+Lille,Sufficiency,3.058,50.628
+Abuja,Sufficiency,7.483,9.067
+Yangon,Sufficiency,96.16,16.795
+Krakow,Sufficiency,19.912,50.064
+Jacksonville,Sufficiency,-81.594,30.272
+Southampton,Sufficiency,-1.404,50.903
+San Antonio,Sufficiency,-98.494,29.425
+Belo Horizonte,Sufficiency,-43.933,-19.917
+Leipzig,Sufficiency,12.375,51.34
+Newcastle,Sufficiency,-1.613,54.974
+Naples,Sufficiency,14.249,40.836
+Curitiba,Sufficiency,-49.271,-25.43
+Luanda,Sufficiency,13.234,-8.838
+Abidjan,Sufficiency,-4.033,5.317
+Milwaukee,Sufficiency,-87.95,43.05
+Nassau,Sufficiency,-77.339,25.078
+Gaborone,Sufficiency,25.912,-24.658
+Puebla,Sufficiency,-97.883,19.0
+Toulouse,Sufficiency,1.444,43.605
+Brasilia,Sufficiency,-47.883,-15.794
+Podgorica,Sufficiency,19.263,42.441
+Kaohsiung,Sufficiency,120.297,22.615
+Bern,Sufficiency,7.447,46.948
+Porto Alegre,Sufficiency,-51.23,-30.033
+Malmö,Sufficiency,13.036,55.606
+Des Moines,Sufficiency,-91.422,40.381
+Guiyang,Sufficiency,106.63,26.647
+Nice,Sufficiency,7.266,43.703
+Tijuana,Sufficiency,-117.033,32.525
+Nanning,Sufficiency,108.328,22.817
+Canberra,Sufficiency,149.127,-35.293
+Nürnberg,Sufficiency,11.078,49.454
+Port of Spain,Sufficiency,-61.517,10.667
+Cordoba,Sufficiency,-4.78,37.89
+Sarajevo,Sufficiency,18.413,43.856
+Foshan,Sufficiency,113.122,23.021
+Bordeaux,Sufficiency,-0.58,44.84
+Florence,Sufficiency,11.254,43.771
+Oklahoma City,Sufficiency,-97.521,35.469
+Astana,Sufficiency,71.433,51.133
+Genoa,Sufficiency,8.933,44.411
+Nagoya,Sufficiency,136.9,35.183
+Lanzhou,Sufficiency,103.827,36.061
+Durban,Sufficiency,31.05,-29.883
+Dongguan,Sufficiency,113.752,23.021
+Portland,Sufficiency,-122.682,45.52
+San Juan,Sufficiency,-66.064,18.406
+Bergen,Sufficiency,5.33,60.389
+Yerevan,Sufficiency,44.57,40.23
+Richmond,Sufficiency,-77.437,37.541
+Santa Cruz,Sufficiency,-122.026,36.972
+Asuncion,Sufficiency,-57.634,-25.28
+Sacramento,Sufficiency,-121.494,38.582
+Cebu,Sufficiency,123.75,10.32
+Hohhot,Sufficiency,111.749,40.842
+Cologne,Sufficiency,6.953,50.936
+The Hague,Sufficiency,4.31,52.08
+Birmingham (AL),Sufficiency,-86.809,33.517
+Las Vegas,Sufficiency,-115.149,36.167
+Ciudad Juarez,Sufficiency,-106.485,31.745
+Winnipeg,Sufficiency,-97.139,49.896
+Orlando,Sufficiency,-81.38,28.54
+Windhoek,Sufficiency,17.084,-22.57
+Hannover,Sufficiency,9.717,52.367
+Louisville,Sufficiency,-85.751,38.256
+Aberdeen,Sufficiency,-2.11,57.15
+Liege,Sufficiency,5.571,50.64
+Liverpool,Sufficiency,-2.992,53.407
+Basel,Sufficiency,7.591,47.555
+Tulsa,Sufficiency,-95.937,36.131
+Mannheim,Sufficiency,8.466,49.488
+Palo Alto,Sufficiency,-122.138,37.429
+San Pedro Sula,Sufficiency,-88.033,15.5
+Seville,Sufficiency,-5.99,37.39
+Recife,Sufficiency,-34.9,-8.05
+Alexandria,Sufficiency,29.892,31.198
+Moscow,Sufficiency,37.618,55.756
+Vientiane,Sufficiency,102.63,17.98
+Tangshan,Sufficiency,118.174,39.629
+Ulan Bator,Sufficiency,106.915,47.922
+Salvador,Sufficiency,-89.183,13.683
+Memphis,Sufficiency,-90.052,35.146
+Yinchuan,Sufficiency,106.225,38.485
+Linz,Sufficiency,14.286,48.306
+Calcutta,Sufficiency,88.37,22.567
+Halifax,Sufficiency,-63.591,44.648
+San Luis Potosí,Sufficiency,-100.433,22.6
+Barranquilla,Sufficiency,-74.802,10.983
+Libreville,Sufficiency,9.44,0.408
+Lodz,Sufficiency,19.455,51.777
+Hamilton,Sufficiency,-79.989,43.243
+Dresden,Sufficiency,13.74,51.05
+Arhus,Sufficiency,10.211,56.157
+Baoding,Sufficiency,115.464,38.874
+Wenzhou,Sufficiency,120.699,27.994
+Blantyre,Sufficiency,35.006,-15.786
+Nottingham,Sufficiency,-1.15,52.96

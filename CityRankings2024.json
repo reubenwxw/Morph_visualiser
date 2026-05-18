@@ -1,0 +1,2012 @@
+[
+  {
+    "City": "London",
+    "Ranking": "Alpha++",
+    "Lon": -0.128,
+    "Lat": 51.507
+  },
+  {
+    "City": "New York",
+    "Ranking": "Alpha++",
+    "Lon": -74.006,
+    "Lat": 40.713
+  },
+  {
+    "City": "Hong Kong",
+    "Ranking": "Alpha+",
+    "Lon": 114.2,
+    "Lat": 22.3
+  },
+  {
+    "City": "Beijing",
+    "Ranking": "Alpha+",
+    "Lon": 116.397,
+    "Lat": 39.907
+  },
+  {
+    "City": "Singapore",
+    "Ranking": "Alpha+",
+    "Lon": 103.833,
+    "Lat": 1.283
+  },
+  {
+    "City": "Shanghai",
+    "Ranking": "Alpha+",
+    "Lon": 121.469,
+    "Lat": 31.233
+  },
+  {
+    "City": "Paris",
+    "Ranking": "Alpha+",
+    "Lon": 2.352,
+    "Lat": 48.857
+  },
+  {
+    "City": "Dubai",
+    "Ranking": "Alpha+",
+    "Lon": 55.271,
+    "Lat": 25.205
+  },
+  {
+    "City": "Tokyo",
+    "Ranking": "Alpha+",
+    "Lon": 139.692,
+    "Lat": 35.69
+  },
+  {
+    "City": "Sydney",
+    "Ranking": "Alpha+",
+    "Lon": 151.21,
+    "Lat": -33.868
+  },
+  {
+    "City": "Seoul",
+    "Ranking": "Alpha",
+    "Lon": 126.99,
+    "Lat": 37.56
+  },
+  {
+    "City": "Milan",
+    "Ranking": "Alpha",
+    "Lon": 9.19,
+    "Lat": 45.467
+  },
+  {
+    "City": "Toronto",
+    "Ranking": "Alpha",
+    "Lon": -79.382,
+    "Lat": 43.653
+  },
+  {
+    "City": "Frankfurt",
+    "Ranking": "Alpha",
+    "Lon": 8.682,
+    "Lat": 50.111
+  },
+  {
+    "City": "Chicago",
+    "Ranking": "Alpha",
+    "Lon": -87.628,
+    "Lat": 41.882
+  },
+  {
+    "City": "Jakarta",
+    "Ranking": "Alpha",
+    "Lon": 106.83,
+    "Lat": -6.18
+  },
+  {
+    "City": "Sao Paulo",
+    "Ranking": "Alpha",
+    "Lon": -46.633,
+    "Lat": -23.55
+  },
+  {
+    "City": "Mexico City",
+    "Ranking": "Alpha",
+    "Lon": -99.133,
+    "Lat": 19.433
+  },
+  {
+    "City": "Mumbai",
+    "Ranking": "Alpha",
+    "Lon": 72.877,
+    "Lat": 19.076
+  },
+  {
+    "City": "Madrid",
+    "Ranking": "Alpha",
+    "Lon": -3.703,
+    "Lat": 40.417
+  },
+  {
+    "City": "Warsaw",
+    "Ranking": "Alpha",
+    "Lon": 21.011,
+    "Lat": 52.23
+  },
+  {
+    "City": "Guangzhou",
+    "Ranking": "Alpha",
+    "Lon": 113.26,
+    "Lat": 23.13
+  },
+  {
+    "City": "Istanbul",
+    "Ranking": "Alpha",
+    "Lon": 28.955,
+    "Lat": 41.014
+  },
+  {
+    "City": "Amsterdam",
+    "Ranking": "Alpha",
+    "Lon": 4.894,
+    "Lat": 52.373
+  },
+  {
+    "City": "Bangkok",
+    "Ranking": "Alpha",
+    "Lon": 100.494,
+    "Lat": 13.752
+  },
+  {
+    "City": "Los Angeles",
+    "Ranking": "Alpha",
+    "Lon": -118.25,
+    "Lat": 34.05
+  },
+  {
+    "City": "Kuala Lumpur",
+    "Ranking": "Alpha",
+    "Lon": 101.695,
+    "Lat": 3.148
+  },
+  {
+    "City": "Luxembourg",
+    "Ranking": "Alpha-",
+    "Lon": 6.133,
+    "Lat": 49.817
+  },
+  {
+    "City": "Taipei",
+    "Ranking": "Alpha-",
+    "Lon": 121.562,
+    "Lat": 25.038
+  },
+  {
+    "City": "Shenzhen",
+    "Ranking": "Alpha-",
+    "Lon": 114.054,
+    "Lat": 22.547
+  },
+  {
+    "City": "Brussels",
+    "Ranking": "Alpha-",
+    "Lon": 4.353,
+    "Lat": 50.847
+  },
+  {
+    "City": "Zurich",
+    "Ranking": "Alpha-",
+    "Lon": 8.541,
+    "Lat": 47.374
+  },
+  {
+    "City": "Buenos Aires",
+    "Ranking": "Alpha-",
+    "Lon": -58.381,
+    "Lat": -34.604
+  },
+  {
+    "City": "Melbourne",
+    "Ranking": "Alpha-",
+    "Lon": 144.963,
+    "Lat": -37.814
+  },
+  {
+    "City": "San Francisco",
+    "Ranking": "Alpha-",
+    "Lon": -122.416,
+    "Lat": 37.778
+  },
+  {
+    "City": "Riyadh",
+    "Ranking": "Alpha-",
+    "Lon": 46.717,
+    "Lat": 24.633
+  },
+  {
+    "City": "Santiago",
+    "Ranking": "Alpha-",
+    "Lon": -70.65,
+    "Lat": -33.438
+  },
+  {
+    "City": "Düsseldorf",
+    "Ranking": "Alpha-",
+    "Lon": 6.777,
+    "Lat": 51.226
+  },
+  {
+    "City": "Stockholm",
+    "Ranking": "Alpha-",
+    "Lon": 18.069,
+    "Lat": 59.329
+  },
+  {
+    "City": "Washington DC",
+    "Ranking": "Alpha-",
+    "Lon": -77.016,
+    "Lat": 38.905
+  },
+  {
+    "City": "Vienna",
+    "Ranking": "Alpha-",
+    "Lon": 16.372,
+    "Lat": 48.208
+  },
+  {
+    "City": "Lisbon",
+    "Ranking": "Alpha-",
+    "Lon": -9.15,
+    "Lat": 38.725
+  },
+  {
+    "City": "Munich",
+    "Ranking": "Alpha-",
+    "Lon": 11.575,
+    "Lat": 48.138
+  },
+  {
+    "City": "Dublin",
+    "Ranking": "Alpha-",
+    "Lon": -6.26,
+    "Lat": 53.35
+  },
+  {
+    "City": "Houston",
+    "Ranking": "Alpha-",
+    "Lon": -95.365,
+    "Lat": 29.757
+  },
+  {
+    "City": "Berlin",
+    "Ranking": "Alpha-",
+    "Lon": 13.405,
+    "Lat": 52.52
+  },
+  {
+    "City": "Johannesburg",
+    "Ranking": "Alpha-",
+    "Lon": 28.046,
+    "Lat": -26.204
+  },
+  {
+    "City": "Boston",
+    "Ranking": "Alpha-",
+    "Lon": -71.058,
+    "Lat": 42.36
+  },
+  {
+    "City": "New Delhi",
+    "Ranking": "Alpha-",
+    "Lon": 77.209,
+    "Lat": 28.614
+  },
+  {
+    "City": "Bogota",
+    "Ranking": "Beta+",
+    "Lon": -74.072,
+    "Lat": 4.711
+  },
+  {
+    "City": "Ho Chi Minh City",
+    "Ranking": "Beta+",
+    "Lon": 106.702,
+    "Lat": 10.776
+  },
+  {
+    "City": "Rome",
+    "Ranking": "Beta+",
+    "Lon": 12.483,
+    "Lat": 41.893
+  },
+  {
+    "City": "Bangalore",
+    "Ranking": "Beta+",
+    "Lon": 77.592,
+    "Lat": 12.979
+  },
+  {
+    "City": "Budapest",
+    "Ranking": "Beta+",
+    "Lon": 19.051,
+    "Lat": 47.492
+  },
+  {
+    "City": "Athens",
+    "Ranking": "Beta+",
+    "Lon": 23.728,
+    "Lat": 37.984
+  },
+  {
+    "City": "Hamburg",
+    "Ranking": "Beta+",
+    "Lon": 10,
+    "Lat": 53.55
+  },
+  {
+    "City": "Doha",
+    "Ranking": "Beta+",
+    "Lon": 51.533,
+    "Lat": 25.287
+  },
+  {
+    "City": "Chengdu",
+    "Ranking": "Beta+",
+    "Lon": 104.063,
+    "Lat": 30.66
+  },
+  {
+    "City": "Miami",
+    "Ranking": "Beta+",
+    "Lon": -80.194,
+    "Lat": 25.774
+  },
+  {
+    "City": "Tianjin",
+    "Ranking": "Beta+",
+    "Lon": 117.205,
+    "Lat": 39.134
+  },
+  {
+    "City": "Dallas",
+    "Ranking": "Beta+",
+    "Lon": -96.809,
+    "Lat": 32.779
+  },
+  {
+    "City": "Atlanta (GA)",
+    "Ranking": "Beta+",
+    "Lon": -84.39,
+    "Lat": 33.749
+  },
+  {
+    "City": "Auckland",
+    "Ranking": "Beta+",
+    "Lon": 174.765,
+    "Lat": -36.849
+  },
+  {
+    "City": "Barcelona",
+    "Ranking": "Beta+",
+    "Lon": 2.183,
+    "Lat": 41.383
+  },
+  {
+    "City": "Hangzhou",
+    "Ranking": "Beta+",
+    "Lon": 120.153,
+    "Lat": 30.267
+  },
+  {
+    "City": "Bucharest",
+    "Ranking": "Beta+",
+    "Lon": 26.104,
+    "Lat": 44.432
+  },
+  {
+    "City": "Lima",
+    "Ranking": "Beta+",
+    "Lon": -77.037,
+    "Lat": -12.06
+  },
+  {
+    "City": "Montreal",
+    "Ranking": "Beta+",
+    "Lon": -73.554,
+    "Lat": 45.509
+  },
+  {
+    "City": "Prague",
+    "Ranking": "Beta+",
+    "Lon": 14.421,
+    "Lat": 50.087
+  },
+  {
+    "City": "Chongqing",
+    "Ranking": "Beta",
+    "Lon": 106.55,
+    "Lat": 29.564
+  },
+  {
+    "City": "Tel Aviv",
+    "Ranking": "Beta",
+    "Lon": 34.78,
+    "Lat": 32.08
+  },
+  {
+    "City": "Brisbane",
+    "Ranking": "Beta",
+    "Lon": 153.028,
+    "Lat": -27.468
+  },
+  {
+    "City": "Cairo",
+    "Ranking": "Beta",
+    "Lon": 31.236,
+    "Lat": 30.044
+  },
+  {
+    "City": "Hanoi",
+    "Ranking": "Beta",
+    "Lon": 105.85,
+    "Lat": 21
+  },
+  {
+    "City": "Nanjing",
+    "Ranking": "Beta",
+    "Lon": 118.779,
+    "Lat": 32.061
+  },
+  {
+    "City": "Oslo",
+    "Ranking": "Beta",
+    "Lon": 10.739,
+    "Lat": 59.913
+  },
+  {
+    "City": "Perth",
+    "Ranking": "Beta",
+    "Lon": 115.86,
+    "Lat": -31.956
+  },
+  {
+    "City": "Abu Dhabi",
+    "Ranking": "Beta",
+    "Lon": 54.367,
+    "Lat": 24.467
+  },
+  {
+    "City": "Copenhagen",
+    "Ranking": "Beta",
+    "Lon": 12.568,
+    "Lat": 55.676
+  },
+  {
+    "City": "Manama",
+    "Ranking": "Beta",
+    "Lon": 50.587,
+    "Lat": 26.223
+  },
+  {
+    "City": "Wuhan",
+    "Ranking": "Beta",
+    "Lon": 114.297,
+    "Lat": 30.595
+  },
+  {
+    "City": "Manila",
+    "Ranking": "Beta",
+    "Lon": 120.977,
+    "Lat": 14.596
+  },
+  {
+    "City": "Xiamen",
+    "Ranking": "Beta",
+    "Lon": 118.089,
+    "Lat": 24.48
+  },
+  {
+    "City": "Nairobi",
+    "Ranking": "Beta",
+    "Lon": 36.817,
+    "Lat": -1.286
+  },
+  {
+    "City": "Kiev",
+    "Ranking": "Beta",
+    "Lon": 30.523,
+    "Lat": 50.45
+  },
+  {
+    "City": "Geneva",
+    "Ranking": "Beta",
+    "Lon": 6.147,
+    "Lat": 46.202
+  },
+  {
+    "City": "Jinan",
+    "Ranking": "Beta",
+    "Lon": 117.021,
+    "Lat": 36.67
+  },
+  {
+    "City": "Calgary",
+    "Ranking": "Beta",
+    "Lon": -114.07,
+    "Lat": 51.05
+  },
+  {
+    "City": "Zhengzhou",
+    "Ranking": "Beta",
+    "Lon": 113.684,
+    "Lat": 34.764
+  },
+  {
+    "City": "Shenyang",
+    "Ranking": "Beta",
+    "Lon": 123.428,
+    "Lat": 41.803
+  },
+  {
+    "City": "Dalian",
+    "Ranking": "Beta",
+    "Lon": 121.6,
+    "Lat": 38.9
+  },
+  {
+    "City": "Suzhou",
+    "Ranking": "Beta",
+    "Lon": 120.619,
+    "Lat": 31.3
+  },
+  {
+    "City": "Qingdao",
+    "Ranking": "Beta-",
+    "Lon": 120.383,
+    "Lat": 36.067
+  },
+  {
+    "City": "Casablanca",
+    "Ranking": "Beta-",
+    "Lon": -7.583,
+    "Lat": 33.533
+  },
+  {
+    "City": "Changsha",
+    "Ranking": "Beta-",
+    "Lon": 112.939,
+    "Lat": 28.228
+  },
+  {
+    "City": "Beirut",
+    "Ranking": "Beta-",
+    "Lon": 35.506,
+    "Lat": 33.898
+  },
+  {
+    "City": "Port Louis",
+    "Ranking": "Beta-",
+    "Lon": 57.504,
+    "Lat": -20.164
+  },
+  {
+    "City": "Denver",
+    "Ranking": "Beta-",
+    "Lon": -104.99,
+    "Lat": 39.74
+  },
+  {
+    "City": "Lagos",
+    "Ranking": "Beta-",
+    "Lon": 3.394,
+    "Lat": 6.456
+  },
+  {
+    "City": "Belgrade",
+    "Ranking": "Beta-",
+    "Lon": 20.457,
+    "Lat": 44.818
+  },
+  {
+    "City": "Montevideo",
+    "Ranking": "Beta-",
+    "Lon": -56.184,
+    "Lat": -34.906
+  },
+  {
+    "City": "Vancouver",
+    "Ranking": "Beta-",
+    "Lon": -123.114,
+    "Lat": 49.261
+  },
+  {
+    "City": "Seattle",
+    "Ranking": "Beta-",
+    "Lon": -122.33,
+    "Lat": 47.604
+  },
+  {
+    "City": "Manchester",
+    "Ranking": "Beta-",
+    "Lon": -2.245,
+    "Lat": 53.479
+  },
+  {
+    "City": "Sofia",
+    "Ranking": "Beta-",
+    "Lon": 23.33,
+    "Lat": 42.7
+  },
+  {
+    "City": "Bratislava",
+    "Ranking": "Beta-",
+    "Lon": 17.11,
+    "Lat": 48.144
+  },
+  {
+    "City": "Rio de Janeiro",
+    "Ranking": "Beta-",
+    "Lon": -43.206,
+    "Lat": -22.911
+  },
+  {
+    "City": "Lyon",
+    "Ranking": "Beta-",
+    "Lon": 4.835,
+    "Lat": 45.767
+  },
+  {
+    "City": "Xi’an",
+    "Ranking": "Beta-",
+    "Lon": 108.942,
+    "Lat": 34.261
+  },
+  {
+    "City": "Helsinki",
+    "Ranking": "Beta-",
+    "Lon": 24.938,
+    "Lat": 60.171
+  },
+  {
+    "City": "Kunming",
+    "Ranking": "Beta-",
+    "Lon": 102.709,
+    "Lat": 25.046
+  },
+  {
+    "City": "Zagreb",
+    "Ranking": "Beta-",
+    "Lon": 15.977,
+    "Lat": 45.813
+  },
+  {
+    "City": "Nicosia",
+    "Ranking": "Beta-",
+    "Lon": 33.365,
+    "Lat": 35.172
+  },
+  {
+    "City": "Karachi",
+    "Ranking": "Beta-",
+    "Lon": 67.01,
+    "Lat": 24.86
+  },
+  {
+    "City": "Caracas",
+    "Ranking": "Beta-",
+    "Lon": -66.914,
+    "Lat": 10.506
+  },
+  {
+    "City": "Hefei",
+    "Ranking": "Beta-",
+    "Lon": 117.227,
+    "Lat": 31.821
+  },
+  {
+    "City": "Stuttgart",
+    "Ranking": "Beta-",
+    "Lon": 9.18,
+    "Lat": 48.778
+  },
+  {
+    "City": "Panama City",
+    "Ranking": "Beta-",
+    "Lon": -79.535,
+    "Lat": 8.971
+  },
+  {
+    "City": "Chennai",
+    "Ranking": "Beta-",
+    "Lon": 80.275,
+    "Lat": 13.082
+  },
+  {
+    "City": "Philadelphia",
+    "Ranking": "Beta-",
+    "Lon": -75.164,
+    "Lat": 39.953
+  },
+  {
+    "City": "Tunis",
+    "Ranking": "Gamma+",
+    "Lon": 10.182,
+    "Lat": 36.806
+  },
+  {
+    "City": "Fuzhou",
+    "Ranking": "Gamma+",
+    "Lon": 119.296,
+    "Lat": 26.074
+  },
+  {
+    "City": "Guatemala City",
+    "Ranking": "Gamma+",
+    "Lon": -90.513,
+    "Lat": 14.642
+  },
+  {
+    "City": "Hyderabad",
+    "Ranking": "Gamma+",
+    "Lon": 78.475,
+    "Lat": 17.362
+  },
+  {
+    "City": "Cape Town",
+    "Ranking": "Gamma+",
+    "Lon": 18.424,
+    "Lat": -33.925
+  },
+  {
+    "City": "Dhaka",
+    "Ranking": "Gamma+",
+    "Lon": 90.389,
+    "Lat": 23.764
+  },
+  {
+    "City": "Porto",
+    "Ranking": "Gamma+",
+    "Lon": -8.611,
+    "Lat": 41.15
+  },
+  {
+    "City": "Austin",
+    "Ranking": "Gamma+",
+    "Lon": -97.743,
+    "Lat": 30.267
+  },
+  {
+    "City": "San Diego",
+    "Ranking": "Gamma+",
+    "Lon": -117.162,
+    "Lat": 32.715
+  },
+  {
+    "City": "Minneapolis",
+    "Ranking": "Gamma+",
+    "Lon": -93.269,
+    "Lat": 44.982
+  },
+  {
+    "City": "Antwerp",
+    "Ranking": "Gamma+",
+    "Lon": 4.4,
+    "Lat": 51.218
+  },
+  {
+    "City": "Almaty",
+    "Ranking": "Gamma+",
+    "Lon": 76.95,
+    "Lat": 43.233
+  },
+  {
+    "City": "Amman",
+    "Ranking": "Gamma+",
+    "Lon": 35.933,
+    "Lat": 31.95
+  },
+  {
+    "City": "Santo Domingo",
+    "Ranking": "Gamma+",
+    "Lon": -69.936,
+    "Lat": 18.462
+  },
+  {
+    "City": "Rotterdam",
+    "Ranking": "Gamma+",
+    "Lon": 4.48,
+    "Lat": 51.92
+  },
+  {
+    "City": "Adelaide",
+    "Ranking": "Gamma+",
+    "Lon": 138.6,
+    "Lat": -34.928
+  },
+  {
+    "City": "Lahore",
+    "Ranking": "Gamma+",
+    "Lon": 74.344,
+    "Lat": 31.55
+  },
+  {
+    "City": "Colombo",
+    "Ranking": "Gamma+",
+    "Lon": 79.843,
+    "Lat": 6.934
+  },
+  {
+    "City": "Taiyuan",
+    "Ranking": "Gamma+",
+    "Lon": 112.55,
+    "Lat": 37.87
+  },
+  {
+    "City": "Kuwait City",
+    "Ranking": "Gamma+",
+    "Lon": 47.978,
+    "Lat": 29.37
+  },
+  {
+    "City": "Monterrey",
+    "Ranking": "Gamma",
+    "Lon": -100.318,
+    "Lat": 25.684
+  },
+  {
+    "City": "Osaka",
+    "Ranking": "Gamma",
+    "Lon": 135.502,
+    "Lat": 34.694
+  },
+  {
+    "City": "Haikou",
+    "Ranking": "Gamma",
+    "Lon": 110.349,
+    "Lat": 20.019
+  },
+  {
+    "City": "Tbilisi",
+    "Ranking": "Gamma",
+    "Lon": 44.792,
+    "Lat": 41.722
+  },
+  {
+    "City": "Tampa",
+    "Ranking": "Gamma",
+    "Lon": -82.459,
+    "Lat": 27.948
+  },
+  {
+    "City": "Tirana",
+    "Ranking": "Gamma",
+    "Lon": 19.818,
+    "Lat": 41.328
+  },
+  {
+    "City": "Quito",
+    "Ranking": "Gamma",
+    "Lon": -78.513,
+    "Lat": -0.22
+  },
+  {
+    "City": "Nashville",
+    "Ranking": "Gamma",
+    "Lon": -86.774,
+    "Lat": 36.162
+  },
+  {
+    "City": "Islamabad",
+    "Ranking": "Gamma",
+    "Lon": 73.064,
+    "Lat": 33.693
+  },
+  {
+    "City": "Kampala",
+    "Ranking": "Gamma",
+    "Lon": 32.581,
+    "Lat": 0.314
+  },
+  {
+    "City": "San Salvador",
+    "Ranking": "Gamma",
+    "Lon": -89.191,
+    "Lat": 13.699
+  },
+  {
+    "City": "Muscat",
+    "Ranking": "Gamma",
+    "Lon": 58.408,
+    "Lat": 23.589
+  },
+  {
+    "City": "Phnom Penh",
+    "Ranking": "Gamma",
+    "Lon": 104.921,
+    "Lat": 11.569
+  },
+  {
+    "City": "Birmingham (UK)",
+    "Ranking": "Gamma",
+    "Lon": -1.903,
+    "Lat": 52.48
+  },
+  {
+    "City": "Pune",
+    "Ranking": "Gamma",
+    "Lon": 73.855,
+    "Lat": 18.521
+  },
+  {
+    "City": "Ningbo",
+    "Ranking": "Gamma",
+    "Lon": 121.624,
+    "Lat": 29.86
+  },
+  {
+    "City": "Harbin",
+    "Ranking": "Gamma",
+    "Lon": 126.641,
+    "Lat": 45.758
+  },
+  {
+    "City": "San Jose (CA)",
+    "Ranking": "Gamma",
+    "Lon": -121.891,
+    "Lat": 37.336
+  },
+  {
+    "City": "Bologna",
+    "Ranking": "Gamma",
+    "Lon": 11.343,
+    "Lat": 44.494
+  },
+  {
+    "City": "San José (Costa Rica)",
+    "Ranking": "Gamma",
+    "Lon": -84.08,
+    "Lat": 9.932
+  },
+  {
+    "City": "Ahmedabad",
+    "Ranking": "Gamma",
+    "Lon": 72.571,
+    "Lat": 23.023
+  },
+  {
+    "City": "Bristol",
+    "Ranking": "Gamma",
+    "Lon": -2.598,
+    "Lat": 51.454
+  },
+  {
+    "City": "Tegucigalpa",
+    "Ranking": "Gamma",
+    "Lon": -87.205,
+    "Lat": 14.106
+  },
+  {
+    "City": "Riga",
+    "Ranking": "Gamma",
+    "Lon": 24.106,
+    "Lat": 56.949
+  },
+  {
+    "City": "Detroit",
+    "Ranking": "Gamma",
+    "Lon": -83.05,
+    "Lat": 42.333
+  },
+  {
+    "City": "Poznan",
+    "Ranking": "Gamma-",
+    "Lon": 16.934,
+    "Lat": 52.408
+  },
+  {
+    "City": "Labuan",
+    "Ranking": "Gamma-",
+    "Lon": 115.22,
+    "Lat": 5.3
+  },
+  {
+    "City": "Charlotte",
+    "Ranking": "Gamma-",
+    "Lon": -80.843,
+    "Lat": 35.227
+  },
+  {
+    "City": "Pittsburgh",
+    "Ranking": "Gamma-",
+    "Lon": -79.976,
+    "Lat": 40.44
+  },
+  {
+    "City": "Valencia (Spain)",
+    "Ranking": "Gamma-",
+    "Lon": -0.376,
+    "Lat": 39.47
+  },
+  {
+    "City": "Edinburgh",
+    "Ranking": "Gamma-",
+    "Lon": -3.189,
+    "Lat": 55.953
+  },
+  {
+    "City": "Jeddah",
+    "Ranking": "Gamma-",
+    "Lon": 39.173,
+    "Lat": 21.543
+  },
+  {
+    "City": "Turin",
+    "Ranking": "Gamma-",
+    "Lon": 7.676,
+    "Lat": 45.079
+  },
+  {
+    "City": "Katowice",
+    "Ranking": "Gamma-",
+    "Lon": 19.022,
+    "Lat": 50.263
+  },
+  {
+    "City": "Baku",
+    "Ranking": "Gamma-",
+    "Lon": 49.833,
+    "Lat": 40.376
+  },
+  {
+    "City": "Penang",
+    "Ranking": "Gamma-",
+    "Lon": 100.329,
+    "Lat": 5.414
+  },
+  {
+    "City": "Dar es Salaam",
+    "Ranking": "Gamma-",
+    "Lon": 39.28,
+    "Lat": -6.816
+  },
+  {
+    "City": "Wellington",
+    "Ranking": "Gamma-",
+    "Lon": 174.777,
+    "Lat": -41.289
+  },
+  {
+    "City": "Managua",
+    "Ranking": "Gamma-",
+    "Lon": -86.251,
+    "Lat": 12.136
+  },
+  {
+    "City": "Cleveland",
+    "Ranking": "Gamma-",
+    "Lon": -81.695,
+    "Lat": 41.499
+  },
+  {
+    "City": "Nanchang",
+    "Ranking": "Gamma-",
+    "Lon": 115.858,
+    "Lat": 28.683
+  },
+  {
+    "City": "Changchun",
+    "Ranking": "Gamma-",
+    "Lon": 125.326,
+    "Lat": 43.897
+  },
+  {
+    "City": "Cali",
+    "Ranking": "Gamma-",
+    "Lon": -76.522,
+    "Lat": 3.421
+  },
+  {
+    "City": "St Louis",
+    "Ranking": "Gamma-",
+    "Lon": -90.198,
+    "Lat": 38.627
+  },
+  {
+    "City": "Ljubljana",
+    "Ranking": "Gamma-",
+    "Lon": 14.506,
+    "Lat": 46.051
+  },
+  {
+    "City": "Baltimore",
+    "Ranking": "Gamma-",
+    "Lon": -76.615,
+    "Lat": 39.289
+  },
+  {
+    "City": "Bilbao",
+    "Ranking": "Gamma-",
+    "Lon": -2.924,
+    "Lat": 43.257
+  },
+  {
+    "City": "Marseille",
+    "Ranking": "Gamma-",
+    "Lon": 5.37,
+    "Lat": 43.296
+  },
+  {
+    "City": "Surabaya",
+    "Ranking": "Gamma-",
+    "Lon": 112.738,
+    "Lat": -7.246
+  },
+  {
+    "City": "Accra",
+    "Ranking": "Gamma-",
+    "Lon": -0.2,
+    "Lat": 5.55
+  },
+  {
+    "City": "Izmir",
+    "Ranking": "High sufficiency",
+    "Lon": 27.132,
+    "Lat": 38.424
+  },
+  {
+    "City": "Harare",
+    "Ranking": "High sufficiency",
+    "Lon": 31.052,
+    "Lat": -17.829
+  },
+  {
+    "City": "Maputo",
+    "Ranking": "High sufficiency",
+    "Lon": 32.573,
+    "Lat": -25.969
+  },
+  {
+    "City": "Vilnius",
+    "Ranking": "High sufficiency",
+    "Lon": 25.28,
+    "Lat": 54.687
+  },
+  {
+    "City": "Macao",
+    "Ranking": "High sufficiency",
+    "Lon": 113.54,
+    "Lat": 22.19
+  },
+  {
+    "City": "Gothenburg",
+    "Ranking": "High sufficiency",
+    "Lon": 11.967,
+    "Lat": 57.708
+  },
+  {
+    "City": "Raleigh",
+    "Ranking": "High sufficiency",
+    "Lon": -78.762,
+    "Lat": 35.854
+  },
+  {
+    "City": "Queretaro",
+    "Ranking": "High sufficiency",
+    "Lon": -100.383,
+    "Lat": 20.583
+  },
+  {
+    "City": "Glasgow",
+    "Ranking": "High sufficiency",
+    "Lon": -4.25,
+    "Lat": 55.861
+  },
+  {
+    "City": "Zhuhai",
+    "Ranking": "High sufficiency",
+    "Lon": 113.572,
+    "Lat": 22.274
+  },
+  {
+    "City": "Phoenix",
+    "Ranking": "High sufficiency",
+    "Lon": -112.074,
+    "Lat": 33.448
+  },
+  {
+    "City": "Dakar",
+    "Ranking": "High sufficiency",
+    "Lon": -17.447,
+    "Lat": 14.693
+  },
+  {
+    "City": "Cincinnati",
+    "Ranking": "High sufficiency",
+    "Lon": -84.513,
+    "Lat": 39.1
+  },
+  {
+    "City": "Skopje",
+    "Ranking": "High sufficiency",
+    "Lon": 21.432,
+    "Lat": 41.996
+  },
+  {
+    "City": "Kansas City",
+    "Ranking": "High sufficiency",
+    "Lon": -94.578,
+    "Lat": 39.1
+  },
+  {
+    "City": "Limassol",
+    "Ranking": "High sufficiency",
+    "Lon": 33.044,
+    "Lat": 34.675
+  },
+  {
+    "City": "La Paz",
+    "Ranking": "High sufficiency",
+    "Lon": -68.133,
+    "Lat": -16.496
+  },
+  {
+    "City": "Leeds",
+    "Ranking": "High sufficiency",
+    "Lon": -1.544,
+    "Lat": 53.797
+  },
+  {
+    "City": "Guayaquil",
+    "Ranking": "High sufficiency",
+    "Lon": -79.888,
+    "Lat": -2.19
+  },
+  {
+    "City": "Hartford",
+    "Ranking": "High sufficiency",
+    "Lon": -72.674,
+    "Lat": 41.763
+  },
+  {
+    "City": "Belfast",
+    "Ranking": "High sufficiency",
+    "Lon": -5.93,
+    "Lat": 54.597
+  },
+  {
+    "City": "Indianapolis",
+    "Ranking": "High sufficiency",
+    "Lon": -86.158,
+    "Lat": 39.769
+  },
+  {
+    "City": "Algiers",
+    "Ranking": "High sufficiency",
+    "Lon": 3.087,
+    "Lat": 36.733
+  },
+  {
+    "City": "Shijiazhuang",
+    "Ranking": "High sufficiency",
+    "Lon": 114.51,
+    "Lat": 38.042
+  },
+  {
+    "City": "Lusaka",
+    "Ranking": "High sufficiency",
+    "Lon": 28.283,
+    "Lat": -15.417
+  },
+  {
+    "City": "Guadalajara",
+    "Ranking": "High sufficiency",
+    "Lon": -103.347,
+    "Lat": 20.677
+  },
+  {
+    "City": "Strasbourg",
+    "Ranking": "Sufficiency",
+    "Lon": 7.746,
+    "Lat": 48.583
+  },
+  {
+    "City": "Columbus",
+    "Ranking": "Sufficiency",
+    "Lon": -83.001,
+    "Lat": 39.962
+  },
+  {
+    "City": "Ankara",
+    "Ranking": "Sufficiency",
+    "Lon": 32.855,
+    "Lat": 39.929
+  },
+  {
+    "City": "Johor Bahru",
+    "Ranking": "Sufficiency",
+    "Lon": 103.761,
+    "Lat": 1.456
+  },
+  {
+    "City": "Ottawa",
+    "Ranking": "Sufficiency",
+    "Lon": -75.695,
+    "Lat": 45.425
+  },
+  {
+    "City": "Wroclaw",
+    "Ranking": "Sufficiency",
+    "Lon": 17.032,
+    "Lat": 51.11
+  },
+  {
+    "City": "Urumqi",
+    "Ranking": "Sufficiency",
+    "Lon": 87.612,
+    "Lat": 43.822
+  },
+  {
+    "City": "Christchurch",
+    "Ranking": "Sufficiency",
+    "Lon": 172.636,
+    "Lat": -43.531
+  },
+  {
+    "City": "Douala",
+    "Ranking": "Sufficiency",
+    "Lon": 9.7,
+    "Lat": 4.05
+  },
+  {
+    "City": "Tashkent",
+    "Ranking": "Sufficiency",
+    "Lon": 69.28,
+    "Lat": 41.311
+  },
+  {
+    "City": "Lausanne",
+    "Ranking": "Sufficiency",
+    "Lon": 6.633,
+    "Lat": 46.52
+  },
+  {
+    "City": "Málaga",
+    "Ranking": "Sufficiency",
+    "Lon": -4.42,
+    "Lat": 36.719
+  },
+  {
+    "City": "Wuxi",
+    "Ranking": "Sufficiency",
+    "Lon": 120.057,
+    "Lat": 31.549
+  },
+  {
+    "City": "George Town (Cayman Islands)",
+    "Ranking": "Sufficiency",
+    "Lon": -81.382,
+    "Lat": 19.296
+  },
+  {
+    "City": "Salt Lake City",
+    "Ranking": "Sufficiency",
+    "Lon": -111.891,
+    "Lat": 40.761
+  },
+  {
+    "City": "Tallinn",
+    "Ranking": "Sufficiency",
+    "Lon": 24.745,
+    "Lat": 59.437
+  },
+  {
+    "City": "Nantes",
+    "Ranking": "Sufficiency",
+    "Lon": -1.553,
+    "Lat": 47.218
+  },
+  {
+    "City": "Medellin",
+    "Ranking": "Sufficiency",
+    "Lon": -75.591,
+    "Lat": 6.231
+  },
+  {
+    "City": "Edmonton",
+    "Ranking": "Sufficiency",
+    "Lon": -113.49,
+    "Lat": 53.534
+  },
+  {
+    "City": "Utrecht",
+    "Ranking": "Sufficiency",
+    "Lon": 5.122,
+    "Lat": 52.091
+  },
+  {
+    "City": "Taichung",
+    "Ranking": "Sufficiency",
+    "Lon": 120.679,
+    "Lat": 24.144
+  },
+  {
+    "City": "Campinas",
+    "Ranking": "Sufficiency",
+    "Lon": -47.061,
+    "Lat": -22.906
+  },
+  {
+    "City": "Lille",
+    "Ranking": "Sufficiency",
+    "Lon": 3.058,
+    "Lat": 50.628
+  },
+  {
+    "City": "Abuja",
+    "Ranking": "Sufficiency",
+    "Lon": 7.483,
+    "Lat": 9.067
+  },
+  {
+    "City": "Yangon",
+    "Ranking": "Sufficiency",
+    "Lon": 96.16,
+    "Lat": 16.795
+  },
+  {
+    "City": "Krakow",
+    "Ranking": "Sufficiency",
+    "Lon": 19.912,
+    "Lat": 50.064
+  },
+  {
+    "City": "Jacksonville",
+    "Ranking": "Sufficiency",
+    "Lon": -81.594,
+    "Lat": 30.272
+  },
+  {
+    "City": "Southampton",
+    "Ranking": "Sufficiency",
+    "Lon": -1.404,
+    "Lat": 50.903
+  },
+  {
+    "City": "San Antonio",
+    "Ranking": "Sufficiency",
+    "Lon": -98.494,
+    "Lat": 29.425
+  },
+  {
+    "City": "Belo Horizonte",
+    "Ranking": "Sufficiency",
+    "Lon": -43.933,
+    "Lat": -19.917
+  },
+  {
+    "City": "Leipzig",
+    "Ranking": "Sufficiency",
+    "Lon": 12.375,
+    "Lat": 51.34
+  },
+  {
+    "City": "Newcastle",
+    "Ranking": "Sufficiency",
+    "Lon": -1.613,
+    "Lat": 54.974
+  },
+  {
+    "City": "Naples",
+    "Ranking": "Sufficiency",
+    "Lon": 14.249,
+    "Lat": 40.836
+  },
+  {
+    "City": "Curitiba",
+    "Ranking": "Sufficiency",
+    "Lon": -49.271,
+    "Lat": -25.43
+  },
+  {
+    "City": "Luanda",
+    "Ranking": "Sufficiency",
+    "Lon": 13.234,
+    "Lat": -8.838
+  },
+  {
+    "City": "Abidjan",
+    "Ranking": "Sufficiency",
+    "Lon": -4.033,
+    "Lat": 5.317
+  },
+  {
+    "City": "Milwaukee",
+    "Ranking": "Sufficiency",
+    "Lon": -87.95,
+    "Lat": 43.05
+  },
+  {
+    "City": "Nassau",
+    "Ranking": "Sufficiency",
+    "Lon": -77.339,
+    "Lat": 25.078
+  },
+  {
+    "City": "Gaborone",
+    "Ranking": "Sufficiency",
+    "Lon": 25.912,
+    "Lat": -24.658
+  },
+  {
+    "City": "Puebla",
+    "Ranking": "Sufficiency",
+    "Lon": -97.883,
+    "Lat": 19
+  },
+  {
+    "City": "Toulouse",
+    "Ranking": "Sufficiency",
+    "Lon": 1.444,
+    "Lat": 43.605
+  },
+  {
+    "City": "Brasilia",
+    "Ranking": "Sufficiency",
+    "Lon": -47.883,
+    "Lat": -15.794
+  },
+  {
+    "City": "Podgorica",
+    "Ranking": "Sufficiency",
+    "Lon": 19.263,
+    "Lat": 42.441
+  },
+  {
+    "City": "Kaohsiung",
+    "Ranking": "Sufficiency",
+    "Lon": 120.297,
+    "Lat": 22.615
+  },
+  {
+    "City": "Bern",
+    "Ranking": "Sufficiency",
+    "Lon": 7.447,
+    "Lat": 46.948
+  },
+  {
+    "City": "Porto Alegre",
+    "Ranking": "Sufficiency",
+    "Lon": -51.23,
+    "Lat": -30.033
+  },
+  {
+    "City": "Malmö",
+    "Ranking": "Sufficiency",
+    "Lon": 13.036,
+    "Lat": 55.606
+  },
+  {
+    "City": "Des Moines",
+    "Ranking": "Sufficiency",
+    "Lon": -91.422,
+    "Lat": 40.381
+  },
+  {
+    "City": "Guiyang",
+    "Ranking": "Sufficiency",
+    "Lon": 106.63,
+    "Lat": 26.647
+  },
+  {
+    "City": "Nice",
+    "Ranking": "Sufficiency",
+    "Lon": 7.266,
+    "Lat": 43.703
+  },
+  {
+    "City": "Tijuana",
+    "Ranking": "Sufficiency",
+    "Lon": -117.033,
+    "Lat": 32.525
+  },
+  {
+    "City": "Nanning",
+    "Ranking": "Sufficiency",
+    "Lon": 108.328,
+    "Lat": 22.817
+  },
+  {
+    "City": "Canberra",
+    "Ranking": "Sufficiency",
+    "Lon": 149.127,
+    "Lat": -35.293
+  },
+  {
+    "City": "Nürnberg",
+    "Ranking": "Sufficiency",
+    "Lon": 11.078,
+    "Lat": 49.454
+  },
+  {
+    "City": "Port of Spain",
+    "Ranking": "Sufficiency",
+    "Lon": -61.517,
+    "Lat": 10.667
+  },
+  {
+    "City": "Cordoba",
+    "Ranking": "Sufficiency",
+    "Lon": -4.78,
+    "Lat": 37.89
+  },
+  {
+    "City": "Sarajevo",
+    "Ranking": "Sufficiency",
+    "Lon": 18.413,
+    "Lat": 43.856
+  },
+  {
+    "City": "Foshan",
+    "Ranking": "Sufficiency",
+    "Lon": 113.122,
+    "Lat": 23.021
+  },
+  {
+    "City": "Bordeaux",
+    "Ranking": "Sufficiency",
+    "Lon": -0.58,
+    "Lat": 44.84
+  },
+  {
+    "City": "Florence",
+    "Ranking": "Sufficiency",
+    "Lon": 11.254,
+    "Lat": 43.771
+  },
+  {
+    "City": "Oklahoma City",
+    "Ranking": "Sufficiency",
+    "Lon": -97.521,
+    "Lat": 35.469
+  },
+  {
+    "City": "Astana",
+    "Ranking": "Sufficiency",
+    "Lon": 71.433,
+    "Lat": 51.133
+  },
+  {
+    "City": "Genoa",
+    "Ranking": "Sufficiency",
+    "Lon": 8.933,
+    "Lat": 44.411
+  },
+  {
+    "City": "Nagoya",
+    "Ranking": "Sufficiency",
+    "Lon": 136.9,
+    "Lat": 35.183
+  },
+  {
+    "City": "Lanzhou",
+    "Ranking": "Sufficiency",
+    "Lon": 103.827,
+    "Lat": 36.061
+  },
+  {
+    "City": "Durban",
+    "Ranking": "Sufficiency",
+    "Lon": 31.05,
+    "Lat": -29.883
+  },
+  {
+    "City": "Dongguan",
+    "Ranking": "Sufficiency",
+    "Lon": 113.752,
+    "Lat": 23.021
+  },
+  {
+    "City": "Portland",
+    "Ranking": "Sufficiency",
+    "Lon": -122.682,
+    "Lat": 45.52
+  },
+  {
+    "City": "San Juan",
+    "Ranking": "Sufficiency",
+    "Lon": -66.064,
+    "Lat": 18.406
+  },
+  {
+    "City": "Bergen",
+    "Ranking": "Sufficiency",
+    "Lon": 5.33,
+    "Lat": 60.389
+  },
+  {
+    "City": "Yerevan",
+    "Ranking": "Sufficiency",
+    "Lon": 44.57,
+    "Lat": 40.23
+  },
+  {
+    "City": "Richmond",
+    "Ranking": "Sufficiency",
+    "Lon": -77.437,
+    "Lat": 37.541
+  },
+  {
+    "City": "Santa Cruz",
+    "Ranking": "Sufficiency",
+    "Lon": -122.026,
+    "Lat": 36.972
+  },
+  {
+    "City": "Asuncion",
+    "Ranking": "Sufficiency",
+    "Lon": -57.634,
+    "Lat": -25.28
+  },
+  {
+    "City": "Sacramento",
+    "Ranking": "Sufficiency",
+    "Lon": -121.494,
+    "Lat": 38.582
+  },
+  {
+    "City": "Cebu",
+    "Ranking": "Sufficiency",
+    "Lon": 123.75,
+    "Lat": 10.32
+  },
+  {
+    "City": "Hohhot",
+    "Ranking": "Sufficiency",
+    "Lon": 111.749,
+    "Lat": 40.842
+  },
+  {
+    "City": "Cologne",
+    "Ranking": "Sufficiency",
+    "Lon": 6.953,
+    "Lat": 50.936
+  },
+  {
+    "City": "The Hague",
+    "Ranking": "Sufficiency",
+    "Lon": 4.31,
+    "Lat": 52.08
+  },
+  {
+    "City": "Birmingham (AL)",
+    "Ranking": "Sufficiency",
+    "Lon": -86.809,
+    "Lat": 33.517
+  },
+  {
+    "City": "Las Vegas",
+    "Ranking": "Sufficiency",
+    "Lon": -115.149,
+    "Lat": 36.167
+  },
+  {
+    "City": "Ciudad Juarez",
+    "Ranking": "Sufficiency",
+    "Lon": -106.485,
+    "Lat": 31.745
+  },
+  {
+    "City": "Winnipeg",
+    "Ranking": "Sufficiency",
+    "Lon": -97.139,
+    "Lat": 49.896
+  },
+  {
+    "City": "Orlando",
+    "Ranking": "Sufficiency",
+    "Lon": -81.38,
+    "Lat": 28.54
+  },
+  {
+    "City": "Windhoek",
+    "Ranking": "Sufficiency",
+    "Lon": 17.084,
+    "Lat": -22.57
+  },
+  {
+    "City": "Hannover",
+    "Ranking": "Sufficiency",
+    "Lon": 9.717,
+    "Lat": 52.367
+  },
+  {
+    "City": "Louisville",
+    "Ranking": "Sufficiency",
+    "Lon": -85.751,
+    "Lat": 38.256
+  },
+  {
+    "City": "Aberdeen",
+    "Ranking": "Sufficiency",
+    "Lon": -2.11,
+    "Lat": 57.15
+  },
+  {
+    "City": "Liege",
+    "Ranking": "Sufficiency",
+    "Lon": 5.571,
+    "Lat": 50.64
+  },
+  {
+    "City": "Liverpool",
+    "Ranking": "Sufficiency",
+    "Lon": -2.992,
+    "Lat": 53.407
+  },
+  {
+    "City": "Basel",
+    "Ranking": "Sufficiency",
+    "Lon": 7.591,
+    "Lat": 47.555
+  },
+  {
+    "City": "Tulsa",
+    "Ranking": "Sufficiency",
+    "Lon": -95.937,
+    "Lat": 36.131
+  },
+  {
+    "City": "Mannheim",
+    "Ranking": "Sufficiency",
+    "Lon": 8.466,
+    "Lat": 49.488
+  },
+  {
+    "City": "Palo Alto",
+    "Ranking": "Sufficiency",
+    "Lon": -122.138,
+    "Lat": 37.429
+  },
+  {
+    "City": "San Pedro Sula",
+    "Ranking": "Sufficiency",
+    "Lon": -88.033,
+    "Lat": 15.5
+  },
+  {
+    "City": "Seville",
+    "Ranking": "Sufficiency",
+    "Lon": -5.99,
+    "Lat": 37.39
+  },
+  {
+    "City": "Recife",
+    "Ranking": "Sufficiency",
+    "Lon": -34.9,
+    "Lat": -8.05
+  },
+  {
+    "City": "Alexandria",
+    "Ranking": "Sufficiency",
+    "Lon": 29.892,
+    "Lat": 31.198
+  },
+  {
+    "City": "Moscow",
+    "Ranking": "Sufficiency",
+    "Lon": 37.618,
+    "Lat": 55.756
+  },
+  {
+    "City": "Vientiane",
+    "Ranking": "Sufficiency",
+    "Lon": 102.63,
+    "Lat": 17.98
+  },
+  {
+    "City": "Tangshan",
+    "Ranking": "Sufficiency",
+    "Lon": 118.174,
+    "Lat": 39.629
+  },
+  {
+    "City": "Ulan Bator",
+    "Ranking": "Sufficiency",
+    "Lon": 106.915,
+    "Lat": 47.922
+  },
+  {
+    "City": "Salvador",
+    "Ranking": "Sufficiency",
+    "Lon": -89.183,
+    "Lat": 13.683
+  },
+  {
+    "City": "Memphis",
+    "Ranking": "Sufficiency",
+    "Lon": -90.052,
+    "Lat": 35.146
+  },
+  {
+    "City": "Yinchuan",
+    "Ranking": "Sufficiency",
+    "Lon": 106.225,
+    "Lat": 38.485
+  },
+  {
+    "City": "Linz",
+    "Ranking": "Sufficiency",
+    "Lon": 14.286,
+    "Lat": 48.306
+  },
+  {
+    "City": "Calcutta",
+    "Ranking": "Sufficiency",
+    "Lon": 88.37,
+    "Lat": 22.567
+  },
+  {
+    "City": "Halifax",
+    "Ranking": "Sufficiency",
+    "Lon": -63.591,
+    "Lat": 44.648
+  },
+  {
+    "City": "San Luis Potosí",
+    "Ranking": "Sufficiency",
+    "Lon": -100.433,
+    "Lat": 22.6
+  },
+  {
+    "City": "Barranquilla",
+    "Ranking": "Sufficiency",
+    "Lon": -74.802,
+    "Lat": 10.983
+  },
+  {
+    "City": "Libreville",
+    "Ranking": "Sufficiency",
+    "Lon": 9.44,
+    "Lat": 0.408
+  },
+  {
+    "City": "Lodz",
+    "Ranking": "Sufficiency",
+    "Lon": 19.455,
+    "Lat": 51.777
+  },
+  {
+    "City": "Hamilton",
+    "Ranking": "Sufficiency",
+    "Lon": -79.989,
+    "Lat": 43.243
+  },
+  {
+    "City": "Dresden",
+    "Ranking": "Sufficiency",
+    "Lon": 13.74,
+    "Lat": 51.05
+  },
+  {
+    "City": "Arhus",
+    "Ranking": "Sufficiency",
+    "Lon": 10.211,
+    "Lat": 56.157
+  },
+  {
+    "City": "Baoding",
+    "Ranking": "Sufficiency",
+    "Lon": 115.464,
+    "Lat": 38.874
+  },
+  {
+    "City": "Wenzhou",
+    "Ranking": "Sufficiency",
+    "Lon": 120.699,
+    "Lat": 27.994
+  },
+  {
+    "City": "Blantyre",
+    "Ranking": "Sufficiency",
+    "Lon": 35.006,
+    "Lat": -15.786
+  },
+  {
+    "City": "Nottingham",
+    "Ranking": "Sufficiency",
+    "Lon": -1.15,
+    "Lat": 52.96
+  }
+]
