@@ -3,12 +3,16 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
+    "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "serve": "node server.js",
+    "dev:all": "concurrently \"npm run dev\" \"npm run serve\""
   },
   "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
     "maplibre-gl": "^4.3.0",
     "pmtiles": "^4.4.1",
     "react": "^18.3.1",
@@ -16,6 +20,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
+    "concurrently": "^9.2.1",
     "vite": "^5.4.1"
   }
 }

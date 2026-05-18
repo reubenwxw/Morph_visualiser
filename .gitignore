@@ -1,4 +1,6 @@
 /workfile/pmtiles
-/.sixth
 /public/pmtiles/*
+/workfile/catchment
+/public/catchment/*
+/.sixth
 node_modules/
